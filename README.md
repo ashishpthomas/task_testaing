@@ -1,4 +1,10 @@
 # TestAIng task
+This webapplication is all about TestAlng task where this one contain a following features:
+- User can do signup & login
+- upload any file
+- manage dashboard
+- forget password
+
 ----------------------------------------------
 # Ptoject setup
 To install virtual environment
@@ -42,3 +48,6 @@ python3 manage.py runserver
 ![WhatsApp Image 2022-06-01 at 4 43 10 PM](https://user-images.githubusercontent.com/72433482/171395730-a9e9710b-a314-4aa4-8455-9fa80f3e5c61.jpeg)
 # dashboard images
 ![WhatsApp Image 2022-06-01 at 4 43 37 PM](https://user-images.githubusercontent.com/72433482/171395813-50865541-3fb7-442e-87b0-c6d28c0d3a7a.jpeg)
+
+# Thankyou 
+- Ashish P Thomas
