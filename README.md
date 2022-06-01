@@ -21,4 +21,12 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 python3 manage.py runserver
 ```
+## Technologies:
 
+> Backend:
+  - Django
+  - djangorestframework
+  - django-cors-headers
+  - djangorestframework-simplejwt
+  - bootstrap 5
+  
